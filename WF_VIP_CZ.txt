@@ -74,3 +74,4 @@ noticiascaracol.com
 ats.pandape.com
 app.pfpmaker.com
 pfpmaker.com
+remove.bg

@@ -1168,7 +1168,6 @@ brightmetrics.com
 cdn.mxpnl.com
 cdn.outbound.io
 cdn.ywxi.net
-chat.google.com
 citrix.brunswick.com
 convertcase.net
 cybexintl.com

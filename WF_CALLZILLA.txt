@@ -823,7 +823,6 @@ jadserve.postrelease.com
 pixel.advertising.com
 hn.inspectlet.com
 d.turn.com
-googleads.g.doubleclick.net
 csm.va.us.criteo.net
 cartrocket.com
 d37phj1nwbd0r1.cloudfront.net
@@ -2799,3 +2798,10 @@ admin.global-e.com
 global-e.com
 order.ahfproducts.com
 ahfproducts.com
+aipcom360.ai
+ka-f.fontawesome.com.cdn.cloudflare.net
+svc.webspellchecker.net
+ido4u.app
+flagbot.co
+manager.enterdev.com.co
+code.ionicframework.com

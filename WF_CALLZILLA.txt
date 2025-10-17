@@ -2831,3 +2831,7 @@ visits.visitor-analytics.io
 wix-engage-visitors-prod-7.firebaseio.com
 wix.ecwid.com
 www-auralnetworks-co.filesusr.com
+redeyecare.halopsa.com
+halopsa.com
+view.genially.com
+genially.com

@@ -603,7 +603,6 @@ interrapidisimo.com
 getanewappliance.com
 d12mivgeuoigbq.cloudfront.net
 aefd.nelreports.net
-namequery.com
 formulario.sire.gov.co
 login.account.wal-mart.com
 wal-mart.com
@@ -1605,7 +1604,6 @@ static.klaviyo.com
 static.narrativ.com
 static.ondergroove.com
 static.ordergroove.com
-status.thawte.com
 store-acttac7hi0.mybigcommerce.com
 store-pk4lhtd86v.mybigcommerce.com
 store.swymrelay.com

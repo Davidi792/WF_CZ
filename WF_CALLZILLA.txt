@@ -2834,3 +2834,8 @@ halopsa.com
 view.genially.com
 genially.com
 egsinc.atlassian.net
+endpoints3-dca.vectordata.net
+vectordata.net
+peakevoice.com
+help.peakevoice.com
+advisorycloud.com

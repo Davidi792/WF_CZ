@@ -2839,3 +2839,5 @@ vectordata.net
 peakevoice.com
 help.peakevoice.com
 advisorycloud.com
+vonage.com
+nam.cc.vonage.com

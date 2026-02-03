@@ -2841,3 +2841,13 @@ help.peakevoice.com
 advisorycloud.com
 vonage.com
 nam.cc.vonage.com
+claim.orderprotection.com
+orderprotection.com
+commpapps.metaswitch.com
+beinsports.zendesk.com
+vhx.tv
+profile.beinsports-apps.com
+appstoreconnect.apple.com
+developer.amazon.com
+connect.beinsports.com
+watch.beinsports-apps.com

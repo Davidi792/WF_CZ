@@ -1583,7 +1583,6 @@ s.getsmartcontent.com
 s.ss2.us
 sc-static.net
 script.tapfiliate.com
-sdk.iad-03.braze.com
 segments.company-target.com
 sock159-mt1.pusher.com
 sock167-mt1.pusher.com
@@ -2347,7 +2346,6 @@ eus.rubiconproject.com
 fastlane.rubiconproject.com
 freestar-io.videoplayerhub.com
 grid.bidswitch.net
-hbopenbid.pubmatic.com
 id.crwdcntrl.net
 js.gleam.io
 prebid.media.net

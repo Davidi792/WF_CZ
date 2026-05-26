@@ -2856,4 +2856,5 @@ us.floatbot.ai
 notebooklm.google.com
 partnerconnect.holman.com
 holman.com
-stopots.com
+app.rippit.com
+rippit.com

@@ -2858,3 +2858,14 @@ partnerconnect.holman.com
 holman.com
 app.rippit.com
 rippit.com
+app.humand.co
+humand.co
+login-test.ateb.com.co
+login.ateb.com.co
+ateb.com.co
+cofidi4-test.ateb.com.co
+wsnomina-test.ateb.com.co
+wsnomina.ateb.com.co
+helisa.com
+registro.helisa.com
+dian.gov.co

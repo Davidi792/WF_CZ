@@ -2869,3 +2869,6 @@ wsnomina.ateb.com.co
 helisa.com
 registro.helisa.com
 dian.gov.co
+verintcloudservices.com
+ris6-a47-use1.a47.verintcloudservices.com
+ris5-a47-use1.a47.verintcloudservices.com

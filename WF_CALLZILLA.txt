@@ -2880,3 +2880,5 @@ broadvoice.com
 sanas.ai
 document360.io
 maven.pet
+us1.proofpointessentials.com
+proofpointessentials.com
